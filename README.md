@@ -1,4 +1,4 @@
-# < ★★★★☆ > Samsung NT370R5E-370R Hackintosh [ OC 0.6.3 ] - Complete
+# Samsung NT370R5E-370R Hackintosh [ OC 0.6.3 ] - Complete
 
 ![Screen Shot 2022-03-30 at 10.33.38 PM.png](%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86%20Samsung%20NT370R5E-370R%20Hackintosh%20%5B%20OC%200%206%203%20%20eb204ec500af439bb274b2d28fd31fdb/Screen_Shot_2022-03-30_at_10.33.38_PM.png)
 
