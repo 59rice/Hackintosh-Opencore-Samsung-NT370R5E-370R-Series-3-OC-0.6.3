@@ -50,6 +50,6 @@ n Shot 2022-03-30 at 10 31 54 PM](https://user-images.githubusercontent.com/1017
     
     [NT370R5E-370R EFI.zip](https://drive.google.com/file/d/1GFFE2jgFF9fUZFfBQ7kjqVLDFTOUFbjY/view?usp=drivesdk)
     
-    - Github Repository
+    - Github Repository [ No more need PW ]
     
     [GitHub - 59rice/Opencore-EFI-Samsung-NT370R5E-370R-Series-3-OC-0.6.3: Opencore EFI for Samsung Series 3](https://github.com/59rice/Opencore-EFI-Samsung-NT370R5E-370R-Series-3-OC-0.6.3)
