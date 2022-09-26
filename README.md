@@ -8,8 +8,8 @@ I wrote down the detailed description of this EFI in the notion
 
 # Working Features
 
-<img src = "https://user-images.githubusercontent.com/101755125/192142209-282e1a6c-f735-44f0-a565-0567399c823c.png" width="65%"></img>
-<img src = "https://user-images.githubusercontent.com/101755125/192142492-8439909f-b1aa-4dda-9d40-bf7095913ed2.png" width="60%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/192142209-282e1a6c-f735-44f0-a565-0567399c823c.png" width="45%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/192142492-8439909f-b1aa-4dda-9d40-bf7095913ed2.png" width="45%"></img>
 
 ## Hardware Spec
 
@@ -22,10 +22,10 @@ I wrote down the detailed description of this EFI in the notion
     SMBIOS : MacbookPro 11,1
     ethernet : WIFI + BT Airport
  
-![Screen Shot 2022-03-30 at 10 37 47 PM](https://user-images.githubusercontent.com/101755125/192142609-71d9fe6b-c30e-4638-bca7-4c1793eac4a2.png)
-  ![Screen Shot 2022-03-30 at 10 31 36 PM](https://user-images.githubusercontent.com/101755125/192142622-e22e53ce-8a68-4d13-9026-23732070f9e2.png)
-![Scree![Screen Shot 2022-03-30 at 10 32 32 PM](https://user-images.githubusercontent.com/101755125/192142624-d8e57109-fed2-486e-9929-5ab04e21e99e.png)
-n Shot 2022-03-30 at 10 31 54 PM](https://user-images.githubusercontent.com/101755125/192142615-82ecf0fe-6d2d-4b53-96eb-b3bb2a3b29f5.png)
+<img src = "https://user-images.githubusercontent.com/101755125/192142609-71d9fe6b-c30e-4638-bca7-4c1793eac4a2.png" width="40%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/192142622-e22e53ce-8a68-4d13-9026-23732070f9e2.png" width="40%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/192142624-d8e57109-fed2-486e-9929-5ab04e21e99e.png" width="40%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/192142615-82ecf0fe-6d2d-4b53-96eb-b3bb2a3b29f5.png" width="40%"></img>
 
  ## Working Functions
  
