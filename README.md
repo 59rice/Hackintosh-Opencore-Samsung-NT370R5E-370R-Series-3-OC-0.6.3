@@ -35,7 +35,13 @@ I wrote down the detailed description of this EFI in the notion
        USB 3.0 ( Used USBinjectall.kext )
        Screen Backlight ( If Disconnect AC Power, Fasten low brightness )
        Bulit-in Trackpad + Keyboard
-       
+
+## itlwm important Note
+
+       Intel Centrino N Chipset dosen't support any version of airportitlwm on Big Sur
+       Only itlwm can used in Mojave,Catalina
+       But Airdrop doesn’t receive files and don’t search nearby airdrop devices + Doesn’t Support              Sidecar,Universal Control ( cuz SMBIOS is 2014” mid )
+
 ## Not Working Functions yet 
 
       ATIV Webcam ( disappeared on USB Map )
