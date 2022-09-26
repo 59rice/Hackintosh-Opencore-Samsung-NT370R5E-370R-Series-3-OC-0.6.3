@@ -40,7 +40,8 @@ I wrote down the detailed description of this EFI in the notion
 
        Intel Centrino N Chipset dosen't support any version of airportitlwm on Big Sur
        Only itlwm can used in Mojave,Catalina
-       But Airdrop doesn’t receive files and don’t search nearby airdrop devices + Doesn’t Support              Sidecar,Universal Control ( cuz SMBIOS is 2014” mid )
+       But Airdrop doesn’t receive files and don’t search nearby airdrop devices + Doesn’t Support 
+       Sidecar,Universal Control ( cuz SMBIOS is 2014” mid )
 
 ## Not Working Functions yet 
 
