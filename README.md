@@ -3,7 +3,7 @@
 I wrote down the detailed description of this EFI in the notion 
 > https://www.notion.so/Samsung-NT370R5E-370R-Hackintosh-OC-0-6-3-Big-Sur-O-6c55a42bc1f441c486d27f40fe6c4fb5
 
-<img src = "https://user-images.githubusercontent.com/101755125/192142671-2c953457-e0a6-43bc-b737-7bba7f898d5e.png" width="40%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/192142671-2c953457-e0a6-43bc-b737-7bba7f898d5e.png" width="35%"></img>
 
 
 # Working Features
