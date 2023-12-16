@@ -1,8 +1,5 @@
 # Opencore-EFI-Samsung-NT370R5E-370R-Series-3-OC-0.6.3
 
-I wrote down the detailed description of this EFI in the notion 
-> https://www.notion.so/Samsung-NT370R5E-370R-Hackintosh-OC-0-6-3-Big-Sur-O-6c55a42bc1f441c486d27f40fe6c4fb5
-
 <img src = "https://user-images.githubusercontent.com/101755125/192142671-2c953457-e0a6-43bc-b737-7bba7f898d5e.png" width="35%"></img>
 
 
@@ -52,11 +49,3 @@ I wrote down the detailed description of this EFI in the notion
       Intel Speed Step ( Not need this )
        ̶R̶e̶a̶l̶t̶e̶k̶ ̶L̶A̶N̶ ̶(̶ ̶N̶o̶t̶ ̶w̶o̶r̶k̶i̶n̶g̶ ̶R̶T̶L̶8̶1̶1̶1̶.̶k̶e̶x̶t̶,̶i̶n̶t̶e̶l̶m̶a̶u̶s̶i̶,̶A̶p̶p̶l̶e̶E̶1̶0̶0̶0̶,̶A̶t̶h̶e̶r̶o̶s̶E̶2̶0̶0̶0̶ ̶)̶*̶ - Hardware Dead :(
 
-- Here to Download My EFI Project! ( PW : gKGaEqcfUqmu1nybp45R )
-    - Google Drive
-    
-    [NT370R5E-370R EFI.zip](https://drive.google.com/file/d/1GFFE2jgFF9fUZFfBQ7kjqVLDFTOUFbjY/view?usp=drivesdk)
-    
-    - Github Repository [ No more need PW ]
-    
-    [GitHub - 59rice/Opencore-EFI-Samsung-NT370R5E-370R-Series-3-OC-0.6.3: Opencore EFI for Samsung Series 3](https://github.com/59rice/Opencore-EFI-Samsung-NT370R5E-370R-Series-3-OC-0.6.3)
