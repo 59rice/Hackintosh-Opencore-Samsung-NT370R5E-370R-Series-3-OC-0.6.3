@@ -2,6 +2,10 @@
 
 <img src = "https://user-images.githubusercontent.com/101755125/192142671-2c953457-e0a6-43bc-b737-7bba7f898d5e.png" width="35%"></img>
 
+>This project will not be maintained for future versions of OpenCore as the developers no longer own the hardware.
+>
+>Switch to read-only archive as this repository will be deprecated in 2024
+
 
 # Working Features
 
