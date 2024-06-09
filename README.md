@@ -1,4 +1,4 @@
-# Opencore-EFI-Samsung-NT370R5E-370R-Series-3-OC-0.6.3
+# Opencore-EFI-Samsung-NT370R5E-370R-Series-3-OC-1.0.0
 
 <img src = "https://user-images.githubusercontent.com/101755125/192142671-2c953457-e0a6-43bc-b737-7bba7f898d5e.png" width="35%"></img>
 
