@@ -2,10 +2,16 @@
 
 <img src = "https://user-images.githubusercontent.com/101755125/192142671-2c953457-e0a6-43bc-b737-7bba7f898d5e.png" width="35%"></img>
 
-⚠ Notice!
->This project will not be maintained for future versions of OpenCore as the developers no longer own the hardware.
+⚠ New Notice!
+>This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
 >
->Switch to read-only archive as this repository will be deprecated in 2024
+>The developer no longer has that hardware, so that version has not been tested for operation.
+>If the version doesn't work, you can use the
+>please use the 0.6.3 release of Opencore, which has been verified to work.
+>
+>We did a major update from 0.6.3 to 1.0.0, so we don't know if it will work correctly
+>
+>Have a Happy Hackintosh :D
 
 
 # Working Features
