@@ -11,6 +11,8 @@
 >
 >We did a major update from 0.6.3 to 1.0.0, so we don't know if it will work correctly
 >
+>If it does work, you may need to use the Opencore Legacy Patcher for proper acceleration
+>
 >Have a Happy Hackintosh :D
 
 
